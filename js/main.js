@@ -35,7 +35,13 @@ var redCurrant = {
 
 
 // Write your function here, name it `writeBerries`
+var writeBerries = function (berries){
+  document.write('<h1>Berries</h1>');
+  berries.forEach(function (item) {
 
+  };
+
+}
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
